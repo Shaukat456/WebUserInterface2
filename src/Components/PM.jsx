@@ -8,14 +8,14 @@ function PM(props) {
     
     <div className="contact">
 
-<div className="row   ">
-    <div className="col text-light my-1 py-5">
-<Lefth h1='Platform ' h2='Modules' />
+<div className="row  cc  ">
+    <div className="col text-light fff  ">
+<Lefth h1='PLATFORM ' h2='MODULES' />
 
     </div>
 
 
-<div className="col">
+<div className="col ">
     <PMC/>
 </div>
 

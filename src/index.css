@@ -14,6 +14,11 @@ html{
     line-height: 10px;
     font-weight: 500;
 }
+.dp{
+  font-weight: 700;
+}
+.dpp{
+align-items: center;}
 
 .keyF{
   background-color: #0c1e3d;
@@ -204,11 +209,12 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 1%, rgba
   }
 
   .heads{
-    font-family: Arial,sans-serif;
+    /* font-family: Arial,sans-serif; */
     /* font-size: 2rem; */
     /* text-decoration: dotted; */
     /* line-height: 600px; */
     /* font-size: ; */
+    font-weight: 100;
   }
   .head2{
     color: #42d5b8;
@@ -225,8 +231,9 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 1%, rgba
 }
 
   .fontss{
-    font-size: 1.6rem;
     /* font-family: 'Mont', sans-serif;  */
+    font-size: 1.6rem;
+    font-weight: 200;
   }
   .blue{
     color: #27b4dc;
@@ -458,6 +465,15 @@ input{
     min-height: 20px;
 
 
+}
+.fff{
+  
+}
+.cc{
+  padding-top: 90px;
+}
+.sa{
+  background-color: #fdfdff;
 }
 .ktext:hover{
   background-color: #929292;

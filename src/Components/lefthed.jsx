@@ -1,7 +1,7 @@
 function Lefth(props) {
     return (  <>
     
-    {/* <div className="col-6 my-5 p-5 heads fontss text-light"> */}
+    <div className="col-6 my-5 p-1 heads fontss text-light">
                     <div className="head1 ">
                          <h2>{props.h1}</h2>
                          </div>
@@ -14,7 +14,7 @@ function Lefth(props) {
                         <h2>{props.h3}</h2>
                          
                          </div>
-                    {/* </div> */}
+                    </div>
     
     </>);
 }
